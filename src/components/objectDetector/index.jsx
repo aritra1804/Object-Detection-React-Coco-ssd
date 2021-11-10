@@ -31,8 +31,8 @@ const HiddenFileInput = styled.input`
 `;
 
 const SelectButton = styled.button`
-  padding: 10px 10px;
-  border: 3px solid transparent;
+  padding: 7px 10px;
+  border: 2px solid transparent;
   background-color: #fff;
   color: #0a0f22;
   font-size: 16px;
